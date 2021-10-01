@@ -1,1 +1,5 @@
-# identfying-highest-number-of-buildings
+-Node.js should be downloaded already
+-Open Windows terminal in the project directory 
+-Run `npm i` comment line
+-Run `node index.js` comment line
+-Outputs will be created in "exports" file
